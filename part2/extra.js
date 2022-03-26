@@ -1,0 +1,1 @@
+'blue', 'green', 'red', 'orange', 'violet', 'indigo', 'yellow', 'html', 'css', 'javascript', 'python', 'java', 'flask', 'react', 'vue', 'django', 'dog', 'cat', 'rabbit', 'deer', 'horse', 'cow', 'turle', 'boy', 'girl', 'man', 'woman', 'computer', 'laptop'
